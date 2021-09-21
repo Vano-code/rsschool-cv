@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Vano-code.github.io/rsschool-cv/
