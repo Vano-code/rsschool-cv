@@ -1,1 +1,7 @@
-https://Vano-code.github.io/rsschool-cv/
+# Ivan Stan 
+### Junior Frontend Developer
+
+---
+
+### Contact information:
+
